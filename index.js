@@ -1,6 +1,6 @@
 const contentLetterSrart_actived = "Chúc mừng sinh nhật phuba, Thiên An! 🎂🌟"; //Lời mở đầu cho bức thư
 const mainContentLetter =
-  "Hôm nay là ngày đặc biệt của em, anh muốn gửi đến em mọi điều tốt đẹp nhất. Mong rằng tuổi mới sẽ mang đến cho em thật nhiều niềm vui, sức khỏe, và may mắn trong mọi việc. Chúc cho đứa em xinh đẹp, giỏi giang, giàu nữa chứ sẽ sớm có được anhtandeptrai. Happy New Year Thiên An !!FromTanDepTraiWithLove ❤️";
+  "Hôm nay là ngày đặc biệt của em, mong rằng tuổi mới sẽ mang đến cho em thật nhiều niềm vui, sức khỏe, và may mắn trong mọi việc. Chúc cho đứa em xinh đẹp, giỏi giang, giàu nữa chứ sẽ sớm có được anhtandeptrai. Happy New Year Thiên An ! FromTanDepTraiWithLove❤️";
 //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
